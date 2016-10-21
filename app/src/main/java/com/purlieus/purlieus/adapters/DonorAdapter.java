@@ -82,6 +82,8 @@ public class DonorAdapter extends RecyclerView.Adapter<DonorAdapter.UserViewHold
         public UserViewHolder(View itemView) {
             super(itemView);
 
+dsfsd
+
             name = (TextView) itemView.findViewById(R.id.name_item);
             bloodGroup = (TextView) itemView.findViewById(R.id.blood_group_type_item);
             phoneNum = (TextView) itemView.findViewById(R.id.contact_num_item);
